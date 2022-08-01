@@ -11,10 +11,6 @@ class Person {
   Person(name) {
     this.name = name;
   }
-
-  String p1() {
-    return name;
-  }
 }
 
 void main() {
